@@ -1,0 +1,13 @@
+name = "lesbians"
+author = "maxine"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3def2e93316e6cab24eeb58ff62628941af0781876fa92428782a2f1bd057eac"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
